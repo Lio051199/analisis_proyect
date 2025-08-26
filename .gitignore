@@ -177,3 +177,8 @@ cython_debug/
 vehicles_env/
 __pycache__/
 *.pyc
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
